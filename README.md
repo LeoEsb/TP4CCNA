@@ -16,3 +16,5 @@
 ### 1.ARP
 #### A.Manip 1
 ![Légende](TP4CCNA/IMG4.PNG) 
+On obtient seulement cette ligne puisque aucune autre VM n'a ping sur le client.
+![Légende](TP4CCNA/IMG5.PNG) 

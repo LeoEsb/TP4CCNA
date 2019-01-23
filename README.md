@@ -21,4 +21,8 @@ On obtient seulement cette ligne puisque aucune autre VM n'a ping sur le client.
 ![Légende](TP4CCNA/IMG5.PNG)   
 On obtient la aussi une seule ligne etant donné qu'aucune autre VM n'a ping sur le server1.   
 
-![Légende](TP4CCNA/IMG6.PNG)
+![Légende](TP4CCNA/IMG6.PNG)   
+Nous avons maintenant l'addresse de celui que nous avons ping
+
+![Légende](TP4CCNA/IMG7.PNG)  
+Et inversement pour le server1.

@@ -11,5 +11,8 @@
 ![Légende](TP4CCNA/IMG2.PNG)  
 * Traceroute depuis le client1 pour voir le chemin pris par server1  
 ![Légende](TP4CCNA/IMG3.PNG)  
+## II-Spéciologie réseau  
 
-
+### 1.ARP
+#### A.Manip 1
+![Légende](TP4CCNA/IMG4.PNG) 

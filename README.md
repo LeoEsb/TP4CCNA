@@ -36,3 +36,7 @@ Et inversement pour le server1.
 ![Légende](TP4CCNA/IMG11.PNG)
 ![Légende](TP4CCNA/IMG12.PNG)
 ![Légende](TP4CCNA/IMG13.PNG)
+
+#### D.Manip4
+![Légende](TP4CCNA/IMG14.PNG)
+![Légende](TP4CCNA/IMG15.PNG)

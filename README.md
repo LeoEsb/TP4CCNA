@@ -26,3 +26,13 @@ Nous avons maintenant l'addresse de celui que nous avons ping
 
 ![Légende](TP4CCNA/IMG7.PNG)  
 Et inversement pour le server1.
+
+#### B.Manip2  
+![Légende](TP4CCNA/IMG8.PNG)  
+![Légende](TP4CCNA/IMG9.PNG)
+![Légende](TP4CCNA/IMG10.PNG)
+
+#### C.Manip3
+![Légende](TP4CCNA/IMG11.PNG)
+![Légende](TP4CCNA/IMG12.PNG)
+![Légende](TP4CCNA/IMG13.PNG)

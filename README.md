@@ -40,3 +40,10 @@ Et inversement pour le server1.
 #### D.Manip4
 ![Légende](TP4CCNA/IMG14.PNG)
 ![Légende](TP4CCNA/IMG15.PNG)
+
+### 2.Wireshark
+
+#### A.Interception d'ARP et ping  
+![Légende](TP4CCNA/IMG16.PNG)   
+![Légende](TP4CCNA/IMG17.PNG) 
+![Légende](TP4CCNA/IMG18.PNG)  

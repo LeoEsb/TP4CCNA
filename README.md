@@ -28,10 +28,13 @@ Nous avons maintenant l'addresse de celui que nous avons ping
 Et inversement pour le server1.
 
 #### B.Manip2  
-![Légende](TP4CCNA/IMG8.PNG)  
-![Légende](TP4CCNA/IMG9.PNG)
-![Légende](TP4CCNA/IMG10.PNG)
+![Légende](TP4CCNA/IMG8.PNG)   
+Nous avons seulement les addresses que le routeur a enregistré.  
 
+![Légende](TP4CCNA/IMG9.PNG)
+
+![Légende](TP4CCNA/IMG10.PNG)     
+Cette ligne a été rajouté étant donné que le client1 passe par le routeur1 pour pouvoir ping le server1.
 #### C.Manip3
 ![Légende](TP4CCNA/IMG11.PNG)
 ![Légende](TP4CCNA/IMG12.PNG)

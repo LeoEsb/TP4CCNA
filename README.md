@@ -40,10 +40,12 @@ Cette ligne a été rajouté étant donné que le client1 passe par le routeur1 
 ![Légende](TP4CCNA/IMG12.PNG)
 ![Légende](TP4CCNA/IMG13.PNG)
 
+C'est de la sorcelerie.
 #### D.Manip4
 ![Légende](TP4CCNA/IMG14.PNG)
 ![Légende](TP4CCNA/IMG15.PNG)
 
+Un ip vennant du site vient de pop et c'est la machine client1 qui la porte je pense.
 ### 2.Wireshark
 
 #### A.Interception d'ARP et ping  
